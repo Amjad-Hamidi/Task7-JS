@@ -1,1 +1,1 @@
-# font-size Task in JavaScript
+font-size Task in JavaScript
